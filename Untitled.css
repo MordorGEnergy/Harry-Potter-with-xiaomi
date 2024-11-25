@@ -1,7 +1,5 @@
 body{
     margin: 0px;
-    position: fixed;
-    bottom: 0;
 }
 html a{
     text-decoration: none;
@@ -88,8 +86,8 @@ header{
     justify-content: center;
     background-color: white;
     border-radius: 100%;
-    right: 1vw;
-    bottom: 1vw;
+    margin-top: 43vw;
+    margin-left: 93vw;
 }
 .strelka_up{
     width: 2.5vw;
