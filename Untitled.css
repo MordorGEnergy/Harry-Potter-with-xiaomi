@@ -1,5 +1,7 @@
 body{
     margin: 0px;
+    position: fixed;
+    bottom: 0;
 }
 html a{
     text-decoration: none;
